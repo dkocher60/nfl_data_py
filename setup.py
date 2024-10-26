@@ -17,7 +17,7 @@ VERSION = '1.0.0'
 # What packages are required for this module to be executed?
 REQUIRED = [
     'pandas>=2',
-    'numpy=>=2'
+    'numpy>=2',
     'appdirs>1',
 ]
 
